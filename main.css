@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url(main-img/body-fon.png)no-repeat center center/cover;
+    background: url(main-img/body-fon.png) no-repeat center center/cover;
 }
 
 .container {
@@ -98,5 +98,4 @@ body{
     padding-left: 25px;
     padding-right: 25px;
 }
-
 
